@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643997593 source:c:\ws-c\tabuado\main.c
+	<stdio.h>
+	<stdlib.h>
+
